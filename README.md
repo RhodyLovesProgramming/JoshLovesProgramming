@@ -5,3 +5,6 @@
 - 📫 dont contact me
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im a Pisces
+
+
+t03ba5.mimo.run : Portal based website i started in grade 2
