@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Rhody
 - 👀 I’m interested in: front end and back end development
 - 🌱 I’m currently learning: front end and back end development
-- 💞️ I’m not looking to collaborate
-- 📫 contact : No
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Im a Pisces
