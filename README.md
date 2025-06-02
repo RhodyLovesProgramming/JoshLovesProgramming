@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Rhody
-- 👀 I’m interested in: front end and back end development
-- 🌱 I’m currently learning: front end and back end development
-- 😄 Pronouns: he/him
+- 👋 Hi, I’m Hans
+- 👀 I’m interested in: Front End Development
+- 🌱 I’m currently learning: Front End and Back End Development
+- 😄 Pronouns: He/Him
 - ⚡ Fun fact: Im a Pisces
